@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Padrinak
-- 👀 I’m interested in ...
+I'm the test prototype
+I just want to learn
